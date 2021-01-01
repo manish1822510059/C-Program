@@ -1,2 +1,3 @@
 # C-Program
-c++ code 
+C
+
